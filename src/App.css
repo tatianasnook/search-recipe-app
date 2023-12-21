@@ -1,3 +1,7 @@
+.App {
+  margin: 0;
+  padding: 0;
+}
 video {
   object-fit: cover;
   width: 100vw;
