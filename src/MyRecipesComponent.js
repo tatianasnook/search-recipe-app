@@ -21,7 +21,7 @@ function MyRecipesComponent({title, image, ingredients, link}) {
 
       <div className="container">
           <button className='link-btn'>
-            <a href={link} target="_blank">See full recipe</a>
+            <a href={link} target="_blank" rel='noopener noreferrer'>See full recipe</a>
           </button>
       </div>
       
