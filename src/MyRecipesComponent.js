@@ -1,4 +1,4 @@
-
+import check from './check.png';
 
 function MyRecipesComponent({title, image, ingredients, link}) {
   return (
@@ -14,6 +14,7 @@ function MyRecipesComponent({title, image, ingredients, link}) {
       <ul className="container list">
         {ingredients.map((ingredient, index) => (
           <li key={index}>
+            <img src={check} alt='check-mark' className='check'/>
             {ingredient}
           </li>
         ))}
