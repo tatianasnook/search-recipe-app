@@ -17,6 +17,10 @@ Find a Recipe App is a React project that enables users to quickly discover reci
 2. Users can make a recipes search by entering  ingredients in the window at the top of the page and press enter or Search button to see recipes that match their available ingredients.
 3. Additionally, users can click the "See full recipe" button to redirect to the full recipe from the original source.
 
+## Deployment
+
+The project is deployed and can be accessed at [find-new-recipes.netlify.app](https://find-new-recipes.netlify.app/). Feel free to visit the site and explore the features.
+
 ## Setup/Installation Requirements
 1.  Before you begin, make sure you have the following prerequisites: node and npm installed on your computer.
 
